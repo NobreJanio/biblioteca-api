@@ -216,4 +216,4 @@ O ambiente ativo pode ser configurado no arquivo `application.yml` através da p
 
 ## Contato
 
-Para dúvidas ou sugestões, entre em contato através de [email ou outro meio de contato].
+Para dúvidas ou sugestões, entre em contato através de janionobrega@hotmail.com
