@@ -1,0 +1,27 @@
+{
+  "repository": "NobreJanio/biblioteca-api",
+  "generatedAt": "2025-07-25T00:24:53.777Z",
+  "userId": "9m9YDdyfXWMkpzjgRCO0aJhpjt82",
+  "projectAnalysis": {
+    "type": "java",
+    "language": "java",
+    "framework": "gradle",
+    "hasTests": true,
+    "structure": {}
+  },
+  "testCategories": [
+    "unit",
+    "integration",
+    "e2e",
+    "performance",
+    "security"
+  ],
+  "totalFiles": 29,
+  "frameworks": [
+    "JUnit 5",
+    "Spring Test",
+    "Selenium",
+    "JMeter",
+    "OWASP ZAP"
+  ]
+}
